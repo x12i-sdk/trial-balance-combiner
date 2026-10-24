@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/trial-balance-combiner",
+  "packageVersion": "1.0.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/trial-balance-combiner",
+  "usageRepository": "https://github.com/x12i-sdk/trial-balance-combiner",
+  "sourceRepository": "https://github.com/x12i/finanfix",
+  "sourceCommit": "8630e4c4f201deb35cd10c3790c9d5abdbce4633",
+  "sourcePackageDirectory": "packages/trial-balance-combiner",
+  "example": {
+    "title": "Combine a synthetic trial balance and retain account contributions",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:18:37.680295+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "b63900d9eb77e0678be3f9b919bf3a05ad6f0e8d67077ef67ea2d1ed02fd92c1",
+    "manifestSha256": "716210f450d2fd7bf43b7da8a7fc61b8afca8981648473701003a9014438fd49"
+  }
+}

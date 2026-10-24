@@ -1,0 +1,22 @@
+{
+  "name": "trial-balance-combiner-usage",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Usage example for @x12i/trial-balance-combiner: combine a synthetic trial balance and retain account contributions.",
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node src/index.mjs",
+    "check": "node --check src/index.mjs"
+  },
+  "dependencies": {
+    "@x12i/trial-balance-combiner": "1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/x12i-sdk/trial-balance-combiner.git"
+  },
+  "homepage": "https://www.npmjs.com/package/@x12i/trial-balance-combiner"
+}
