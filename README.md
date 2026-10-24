@@ -19,8 +19,8 @@ npm start
 
 ## When to use the package
 
-- A consumer needs the following capability: Combine non-overlapping trial balances and derive safe cumulative slices.
-- A Trial balance integration needs to reuse the capabilities of @x12i/trial-balance-combiner inside a larger application.
+- Combine non-overlapping reporting segments while retaining per-account contributions.
+- Derive a supported cumulative slice and surface ambiguous period overlaps.
 
 ## Links
 
